@@ -1,3 +1,4 @@
 # AIRAS
 Agricultural Irrigation Resource Allocation System
+
 Agricultural irrigation is a resource allocation problem where a limited supply of water must be distributed among multiple farms with different crop requirements, soil conditions, and levels of urgency. In practice, several farms may simultaneously request irrigation, while the available water, pumps, and irrigation channels are limited. Allocation decisions depend on factors such as crop type, soil moisture, farm size, crop growth stage, water requirements, and the urgency of irrigation. These decisions must be made efficiently and fairly while preventing conflicts and unnecessary water wastage.
